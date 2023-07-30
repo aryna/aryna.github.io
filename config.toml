@@ -1,7 +1,8 @@
 baseURL = 'https://aryna.github.io/'
 languageCode = 'en-us'
-title = 'Aryna New Hugo Site'
+title = 'Arynas blog'
 theme = "hugo_theme_pickles"
+enableEmoji = true
 [params]
 	paginate = 10
 
